@@ -1,0 +1,23 @@
+# Configuración de VS Code
+.vscode/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Registros y archivos temporales
+*.log
+*.tmp
+*.temp
+
+# Variables de entorno
+.env
+.env.*
+
+# Dependencias, si se agregan posteriormente
+node_modules/
+
+# Archivos generados
+dist/
+coverage/
